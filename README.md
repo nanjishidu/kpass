@@ -1,7 +1,7 @@
 # kpass
 password management tool for golang
 
-## Download
+## Download
 
 ### kpass 1.0
 
